@@ -83,18 +83,3 @@ If the original image size is 800 × 600 and scale_percent = 50:
 Krupali – Image Resizer Project Developer
 
 ---
-## 🖼️ Image Resizer with OpenCV
-
-This project is a simple Python-based Image Resizer using the OpenCV library.
-It loads an image, resizes it by a specified percentage, and saves the resized output.
-
----
-
-## 🚀 Features
-
-- Resize images by any percentage (default: 50%)
-- Works with any image format supported by OpenCV
-- Preserves aspect ratio
-- Saves resized image as a new file
-
----
