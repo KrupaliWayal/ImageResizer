@@ -29,7 +29,7 @@ Install OpenCV by running:
 
 ImageResizer/
 
-│-- imageresizer.py     # Main program file
+│-- main.py     # Main program file
 
 │-- krishna.jpg         # Input image (example)
 
@@ -57,7 +57,7 @@ Inside the script, you can modify these:
 
 4.Run the script:
 
-    python imageresizer.py
+    python main.py
 
 5.The resized image will be saved as ResizedImage.jpg.
 
